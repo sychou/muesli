@@ -1,5 +1,8 @@
 # Muesli
 
+> [!WARNING]
+> **Unsupported.** This fork of [harperreed/muesli](https://github.com/harperreed/muesli) is no longer maintained. For syncing and searching Granola meetings, use [msgvault](https://github.com/kenn-io/msgvault) instead: `msgvault sync-granola` pulls notes and transcripts straight from Granola, and `msgvault sync-muesli` imports an existing Muesli database so nothing is lost.
+
 **A fast, offline-first Rust CLI for syncing and searching Granola meeting transcripts**
 
 [![CI](https://github.com/harperreed/muesli/workflows/CI/badge.svg)](https://github.com/harperreed/muesli/actions)
